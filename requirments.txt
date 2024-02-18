@@ -1,0 +1,11 @@
+pip install selenium
+pip install pyttsx3 2.90
+pip install pywhatkit 5.4
+pip install wikipedia 1.4.0
+pip install pyjokes 0.6.0
+pip install twilio
+pip install ecapture
+pip install wolframalpha 5.0.0
+pip install beautifulsoup4 4.12.2
+pip install requests
+pip install SpeechRecognition
